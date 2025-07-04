@@ -1,20 +1,22 @@
-# PowerShell Skripte ⚡
+# PowerShell Scripts ⚡
 
-**Willkommen in meinem persönlichen PowerShell-Repository!**
+**Welcome to my personal PowerShell repository!**
 
-In diesem Repository findest du eine Sammlung von PowerShell-Skripten, die ich für meine täglichen Aufgaben und Projekte entwickelt habe.
+This repository contains a curated collection of PowerShell scripts that I have developed to streamline my daily tasks and projects.
 
-**Warum dieses Repository?**
+## Purpose of this Repository
 
-* **Backup:** Dieses Repository dient als Backup für meine Skripte.
-* **Community:** Ich hoffe, dass meine Skripte anderen PowerShell-Enthusiasten nützlich sein können.
+- **Backup:** Serves as a secure backup for my scripts.
+- **Community:** Aims to provide valuable resources for fellow PowerShell enthusiasts.
 
-**Wie verwende ich diese Skripte?**
+## How to Use These Scripts
 
-Die meisten Skripte sind selbsterklärend und kommen mit ausführlichen Kommentaren. Bitte beachte die spezifischen Anforderungen und Abhängigkeiten jedes Skripts.
+Most scripts are self-explanatory and are accompanied by detailed comments. Please review the specific requirements and dependencies for each script before use.
 
-**Disclaimer:**
+## Disclaimer
 
-Die hier bereitgestellten Skripte werden "wie besehen" zur Verfügung gestellt. Ich übernehme keine Haftung für Schäden, die durch die Verwendung dieser Skripte entstehen.
+The scripts provided in this repository are offered "as is." I assume no responsibility for any damages or issues that may arise from their use.
 
-**Viel Spaß beim Entdecken!**
+---
+
+**Enjoy exploring and feel free to contribute or reach out with feedback!**
